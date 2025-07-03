@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id</Data></Cell>
+			<Cell><Data ss:Type="String">nome</Data></Cell>
+			<Cell><Data ss:Type="String">data_hora</Data></Cell>
+			<Cell><Data ss:Type="String">tipo</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">João Pestana</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 13:31:37</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">João Pestana</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 14:15:43</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Kleber Keniti</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 14:35:40</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Kleber Keniti</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 15:02:28</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">João Pestana</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 15:09:28</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">João Pestana</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 15:21:40</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Alef Schimidt</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 15:47:43</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Alef Schimidt</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-07 17:44:46</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 08:06:35</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 09:24:30</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 09:29:31</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 09:38:24</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Luiz Paulo</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 09:45:28</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Luiz Paulo</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 10:44:35</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 11:34:35</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 12:14:11</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">João Pestana</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 14:52:58</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">João Pestana</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 16:01:59</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 16:44:15</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 17:28:28</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Edson Brito</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 17:29:27</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Edson Brito</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-08 17:41:48</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">Edson Brito</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 08:29:03</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">Edson Brito</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 08:36:18</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">Kleber Keniti</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 08:38:59</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Kleber Keniti</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 09:04:49</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Alef Schimidt</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 16:33:59</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Alef Schimidt</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 17:05:51</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">Giovanni Guimarães</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 17:52:20</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Giovanni Guimarães</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-09 18:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-10 08:23:48</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-10 09:17:23</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-10 10:55:11</Data></Cell>
+			<Cell><Data ss:Type="String">saída</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">João Daguano</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-10 10:55:39</Data></Cell>
+			<Cell><Data ss:Type="String">volta</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
